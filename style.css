@@ -1,0 +1,30 @@
+.maincontainer{
+    height: 100vh;
+    background-color: rgb(207, 223, 223);
+    padding: 20px;
+    text-align: center;
+}
+
+.subcontainer{
+    padding: 40px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 10px 40px;
+}
+.button{
+    padding: 10px 15px;
+    background-color: rgb(145, 250, 39);
+    border: 1px solid;
+    font-weight: 800;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.mainw{
+    color: blue;
+}
+.heading{
+    color:rgb(72, 113, 113);
+}
+.image{
+    border-radius: 10px;
+}
